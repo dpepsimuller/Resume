@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Denise Kokemuller</title>
+</head>
+
+<body>
+    <style>
+        table {
+            border-spacing: 20px
+        }
+
+    </style>
+    <!--wanted space around my photo-->
+
+    <table>
+        <tr>
+            <td><a href="https://www.linkedin.com/in/Denise-kokemuller" target="_blank">
+                    <img src="https://media.licdn.com/dms/image/D5603AQHxEcVUohAPdQ/profile-displayphoto-shrink_200_200/0/1675264701871?e=1684972800&v=beta&t=MZXSpjlEJ_qWV6_GZUYpKsN50blHwuHgJ21DhjNyxrk" alt="Denise Kokemuller" style="width:150px"></a></td>
+            <td>
+                <h1>Denise Kokemuller</h1><br><strong>Assistant Art Director / Graphic Designer</strong><br>Create Solutions with Brand, Budget, Background and Customer in Mind
+            </td>
+        </tr>
+        <!--I added a Linked In link, linked my photo and shrank it to 150px here-->
+    </table>
+
+    <h2>About</h2>
+    <p>Collaborate to create compelling, winning designs that support a broad spectrum of marketing efforts from conception to final product. Inclusive facilitator, managing direct reports, freelancers, and bodies of work and developing and improving processes to save time and money. Research and understand consumer. Flexibility and adaptability to balance diverse body of work. Love learning and sharing knowledge. Equip left / right brain balance to craft thoughtful projects that get results.</p>
+
+    <h2>Soft Skills</h2>
+    <ul>
+        <li>Art Direction</li>
+        <li>Conceptualization and Brainstorming</li>
+        <li>Print Production and Pre-Press</li>
+        <li>Postal Guidelines</li>
+        <li>Typography</li>
+        <li>Publishing</li>
+        <li>Marketing and Brand Research</li>
+        <li>Photography</li>
+        <li>Photoshoots</li>
+    </ul>
+    <br>
+    <h2>Hard Skills</h2>
+    <ul>
+        <li>Adobe Creative Suite: InDesign, Photoshop, Acrobat Pro, Illustrator</li>
+        <li>Web Design: Adobe Dreamweaver, Flash, html, Figma</li>
+        <li>Fulfillment: laser PDFs, WFD workflow in Quadient Inspire Designer</li>
+        <li>Microsoft: Excel, Word</li>
+    </ul>
+
+    <h2>Contact Me</h2>
+    <address>Contact Me at <a href="mailto:dpepsimuller@gmail.com?subject=Test Email &body=Test Body Content">Denise Kokemuller</a><br>
+        Visit me at My Address <br>
+        <a href="tel:515-205-1069">515-515-5151</a>
+    </address>
+
+    <p><a href="http://www.dpepsimuller.myportfolio.com" target="_blank">My Portfolio</a></p>
+
+</body>
+
+</html>
